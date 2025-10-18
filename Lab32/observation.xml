@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:weather-observation xmlns:ns2="http://example.org/weather-observation">
+    <timeStamp>2025-10-14T18:16:32.5683184</timeStamp>
+    <unit>Kelvin</unit>
+    <value>277.58607385550806</value>
+</ns2:weather-observation>
