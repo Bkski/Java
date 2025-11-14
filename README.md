@@ -14,7 +14,7 @@ Terminal 4 (Klient 3): java -cp app.jar org.example.BlueGamer
 Lab 6.1
 
 1. Zainstaluj wtyczkę (Plugin) Lombok
-2. 
+
 Dla IntelliJ IDEA:
 
 Idź do File -> Settings (lub IntelliJ IDEA -> Preferences... na macOS).
